@@ -9,6 +9,6 @@ public class Personel {
 	private String id;
 	private String adi;
 	private String soyadi;
-	private Date dogumTarihi;
+	private Date dogumTarihii;
 
 }
